@@ -10,15 +10,15 @@ public class gg
 
     // instance variables - replace the example below with your own
     private int x;
-    private int tis;
+    private double tis;
+    private double lort;
 
     /**
      * Constructor for objects of class gg
      */
-    public gg()
+    public gg(double tis, double lort)
     {
-        // initialise instance variables
-        x = 0;
+        System.out.print("du har lagt en lort på" + lort + "KG og pisset" + tis + "Liter :)");
     }
 
     /**
