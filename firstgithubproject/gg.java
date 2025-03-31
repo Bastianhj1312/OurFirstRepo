@@ -9,6 +9,7 @@ public class gg
 {
     // instance variables - replace the example below with your own
     private int x;
+    private int tis;
 
     /**
      * Constructor for objects of class gg
