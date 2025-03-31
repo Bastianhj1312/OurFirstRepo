@@ -7,6 +7,7 @@
  */
 public class gg
 {
+
     // instance variables - replace the example below with your own
     private int x;
     private int tis;
@@ -31,4 +32,5 @@ public class gg
         // put your code here
         return x + y;
     }
+
 }
